@@ -1,3 +1,7 @@
+body {
+    font: normal 12px arial, serif ;
+}
+
 h1 {
     text-align: center;
     color: red;
@@ -11,4 +15,8 @@ span {
 
 p {
     text-align: justify;
+    text-indent: 15px;
+    color: blue;
+    font-style: italic;
+    
 }
